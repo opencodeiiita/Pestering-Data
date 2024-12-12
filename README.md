@@ -5,3 +5,4 @@ Since, we have a large dataset, it will be fun to work with it having 22 classes
 
 **Problem Statement: Using new age technologies of deep learning to deal with such a large dataset, participants are required to create a model to classify images based on the disease or healthy.**
 
+Dataset link: https://kaggle.com/datasets/70386cefea61cfef7efab20c1a430a79a734ef495661efc02b2630b98d8cafc7
