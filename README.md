@@ -10,7 +10,7 @@ Dataset link: https://kaggle.com/datasets/70386cefea61cfef7efab20c1a430a79a734ef
 # Instructions
 1) Download the dataset from the provided link.
 2) Fork the repo and add any notebook(.ipynb file) as needed to the forked repo.
-3) Create a PR. As per the issue or the pre-decided rule, the PR will be merged.
+3) Create a PR. As per the issue or the pre-decided rule, the most relevant PR will be merged.
 4) Make sure to name the file as IIT2023098 where IIT is your branch and 2023098 is your unique ID (only for IIIT Allahabad students).
 5) If the participant is from another college must name the file as their college name and the roll number. For ex - IITBHU_rollno.
 6) In case of any queries make sure to join the discord server and freely communicate there.
