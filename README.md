@@ -14,3 +14,4 @@ Dataset link: https://kaggle.com/datasets/70386cefea61cfef7efab20c1a430a79a734ef
 4) Make sure to name the file as IIT2023098 where IIT is your branch and 2023098 is your unique ID (only for IIIT Allahabad students).
 5) If the participant is from another college must name the file as their college name and the roll number. For ex - IITBHU_rollno.
 6) In case of any queries make sure to join the discord server and freely communicate there.
+7) Push the solutions in the assigned folder only. For ex- the .ipynb file for the Task1 mus be pushed to the folder Task1_solutions only.
