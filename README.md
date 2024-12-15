@@ -1,4 +1,4 @@
-# **🌿 Welcome to Pestering-Data**  
+# 🌿 **Pestering-Data**  
 **Using Deep Learning to Classify Crop Health and Diseases**  
 
 ---
